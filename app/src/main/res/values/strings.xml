@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Lesson1Android1SecondTry</string>
+    <string name="passenger_name">John Mayer</string>
+    <string name="class_flight_title">Business</string>
+    <string name="departure_title">Departure</string>
+    <string name="arrival_title">Arrival</string>
+    <string name="airport1_name">YYZ</string>
+    <string name="airport2_name">LHR</string>
+    <string name="airport3_name">BISH</string>
+    <string name="airport4_name">ALM</string>
+    <string name="city1_name">Toronto</string>
+    <string name="city2_name">London</string>
+    <string name="time1_name">3:30pm</string>
+    <string name="time2_name">9:25pm</string>
+    <string name="flight_title">Flight</string>
+    <string name="gate_title">Gate</string>
+    <string name="group_title">Group</string>
+    <string name="seat_title">Seat</string>
+    <string name="flight_number">AC182</string>
+    <string name="gate_number">24</string>
+    <string name="group_number">5</string>
+    <string name="seat_number">34A</string>
+    <string name="boarding_time_title">Boarding time</string>
+    <string name="remaining_title">Remaining</string>
+    <string name="boarding_time">3:00pm</string>
+    <string name="remaining_time">1:32:45</string>
+    <string name="airlines_company_name">Super \nAirlines</string>
+
+</resources>
